@@ -1,3 +1,9 @@
+golang-github-disiqueira-gotree (3.0.2-2deepin1) unstable; urgency=medium
+
+  * Remove patch.
+
+ -- xiangzelong <xiangzelong@deepin.org>  Tue, 08 Oct 2024 15:47:30 +0800
+
 golang-github-disiqueira-gotree (3.0.2-2) unstable; urgency=medium
 
   * Apply multi-arch hint: Add Multi-Arch: foreign
