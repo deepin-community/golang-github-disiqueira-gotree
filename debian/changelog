@@ -1,5 +1,12 @@
-template-repository (1.0-1) unstable; urgency=medium
+golang-github-disiqueira-gotree (3.0.2-2) unstable; urgency=medium
 
-  * Initial release
+  * Apply multi-arch hint: Add Multi-Arch: foreign
+  * Bump standards version
 
- -- Tsic404 <liuheng@deepin.org>  Sat, 28 Jan 2023 13:46:49 +0800
+ -- Reinhard Tartler <siretart@tauware.de>  Sat, 04 Sep 2021 22:18:10 +0200
+
+golang-github-disiqueira-gotree (3.0.2-1) unstable; urgency=medium
+
+  * Initial release (Closes: #989514)
+
+ -- Reinhard Tartler <siretart@tauware.de>  Sat, 05 Jun 2021 23:18:50 -0400
